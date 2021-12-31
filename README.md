@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anu-Ra-g
-- 👀 I’m interested in Web3 
+- 👀 I’m interested in
 - ↗ I'm also interested in Open Source
 - 🌱 I’m currently learning WebDev and Linux
 - 💞️ I’m looking to collaborate on ...
