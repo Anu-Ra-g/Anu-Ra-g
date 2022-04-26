@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anu-Ra-g
-- 👀 I’m interested in Linux, Python, DevOps.
+- 👀 I’m interested in Python, DevOps.
 - ↗ I'm also interested in Open Source
 - 🌱 I’m currently learning Linux and Operating Systems.
 
